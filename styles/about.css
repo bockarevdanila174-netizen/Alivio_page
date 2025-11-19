@@ -71,6 +71,8 @@
     }
     
 }
+
+
 @media(max-width:576px){
     .about__title {
         font-size: 35px;
