@@ -7,10 +7,10 @@
     align-items: center;
 }
 
-.header_nav{
+
     
 
-}
+
 
 .header_nav-list {
     display: flex;
@@ -20,8 +20,8 @@
     column-gap: min (70px, 4vw);
 }
 
-.header_nav-item {
-}
+
+
 
 .header_nav-link {
     font-size: 20px;
