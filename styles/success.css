@@ -82,9 +82,7 @@ background-color: var(--color-dark-green);
     }
 }
 @media(max-width:576px){
-    .success__wrapper{
-        padding: 150px;
-    }
+   
     .success__title {
         font-size: 35px;
 

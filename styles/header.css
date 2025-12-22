@@ -5,6 +5,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 
@@ -48,7 +49,7 @@
     .header_nav-link {
         font-size: 16px;
     }
-    .btn{
+    .header_action .btn{
         width: 120px;
         font-size: 16px;
     }
@@ -57,4 +58,12 @@
     .header_nav{
         display: none;
 }
+.header_wrapper{
+    padding: 0 0 0 40px;
+}
+}
+@media(max-width:390px){
+    .header_action .btn{
+        width: 90px;
+    }
 }
